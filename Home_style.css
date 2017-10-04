@@ -1,0 +1,44 @@
+.header{
+	font-size: 80px;
+	font-family: Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif;
+}
+
+a:link {
+	color: #306EFF;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #306EFF;
+	text-decoration: none;
+}
+
+.tagline{
+	color: #000000;
+	font-size: 30px;
+	text-align: center;
+}
+
+#tag{
+	font-weight: 800;
+	font-family: Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif;
+	font-size: 40px;
+}
+
+#butt1{
+	position: absolute;
+	top: 300px;
+	left: 250px;
+}
+
+#butt2{
+	position: absolute;
+	top: 300px;
+	left: 920px;
+}
+
+.contact_us{
+	position: absolute;
+	top: 600px;
+	left: 1170px;
+}

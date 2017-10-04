@@ -1,0 +1,21 @@
+.header{
+	font-size: 80px;
+	font-family: Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif;
+}
+
+a:link {
+	color: #306EFF;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #306EFF;
+	text-decoration: none;
+}
+
+#Niharika{
+	color: #493D26;
+	font-size: 25px;
+	font-family: Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif;
+	margin-left: 15px;
+}
